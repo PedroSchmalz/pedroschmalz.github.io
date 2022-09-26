@@ -18,7 +18,7 @@ linkedin_username: "pedro-schmalz"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote-theme: jamigibbs/phantom
+theme: "minima"
 
 rss: rss
 

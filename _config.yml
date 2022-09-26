@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
+=======
+title: "Direto aos Dados"
+author: "Pedro Schmalz"
+description: "Neste blog irei apresentar algumas visualizações e análises de dados de projetos em que estou participando/liderando." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+>>>>>>> 5446529ac5ee688833d59cdacb5aca88a549ee52
 
 ############################
 # --- Required options --- #

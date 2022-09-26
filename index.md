@@ -1,5 +1,14 @@
-Here you can say lots of fun things about your site.
+Olá, sou Pedro Schmalz, mestrando no DCP-USP, e aqui apresentarei visualizações e resultados
+de alguns projetos em que estou envolvido. Espero que gostem!
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+## Último post
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post.html %}
+</div>
+
+
+

@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Olá, sou Pedro Schmalz e neste espaço irei compartilhar um pouco dos projetos em que estou envolvido e algumas análises de dados.

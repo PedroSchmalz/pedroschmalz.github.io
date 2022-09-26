@@ -20,7 +20,7 @@ author: Pedro Schmalz
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mim: "aboutme"
   Lattes: "http://lattes.cnpq.br/1854424638099951"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"

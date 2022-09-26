@@ -1,6 +1,13 @@
 ---
 layout: home
 title: Direto aos Dados
-subtitle: Mestrando em Ciência Política no DCP-USP, viciado em cuscuz com ovo e fã de Frank Ocean
+subtitle: Autor: Pedro Schmalz, mestrando DCP-USP
 ---
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
+
 

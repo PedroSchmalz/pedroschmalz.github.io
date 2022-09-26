@@ -5,6 +5,6 @@ de alguns projetos em que estou envolvido. Espero que gostem!
 <div class="blog-index">  
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
-  {% include post_detail.html %}
+  {% include post.html %}
 </div>
 

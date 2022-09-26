@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre Mim
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Pedro Schmalz, e aqui estão alguns detalhes sobre mim:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Sou mestrando no Departamento de Ciência Política da USP (DCP-USP);
+- Gosto muito de produzir e aprender mais sobre visualizações de dados;
+- Eterno aprendiz de métodos estatísticos para a Ciência Política;
+- Estou conhecendo mais sobre a linguagem Python e Machine Learning
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

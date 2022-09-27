@@ -3,7 +3,7 @@ layout: post
 title: Gastos em educação e os efeitos da pandemia
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/post_educ/thumb_post_edu.jpg
+thumbnail-img: /assets/img/post_educ/thumb_post_edu.jpeg
 share-img: 
 tags: [análises, visualizações]
 ---

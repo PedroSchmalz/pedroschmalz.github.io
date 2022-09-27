@@ -9,7 +9,6 @@ tags: [análises, visualizações]
 ---
 
 
-<<<<<<< HEAD
 Esse post é parte de um projeto de análise dos dados de gastos em educação pelos estados brasileiros, retirados do SIOPE (Sistema de Informações sobre Orçamentos Públicos em Educação) e, também, dos RREOs estaduais (Relatórios Resumidos de Orçamento). Aqui, pretendo mostrar um pouco do histórico de alocação de recursos em educação no Brasil, os possíveis efeitos da pandemia e conclusões que podemos tirar disso.
 
 ## A fonte dos dados
@@ -19,10 +18,3 @@ Neste texto, analisaremos dados de duas fontes principais: Primeiro, dados sobre
 
 [^1]: "A união aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino. Disponível em: (http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
 
-
-
-
-
-=======
-Esse post é parte de um projeto de análise dos dados de gastos em educação pelos estados brasileiros, retirados do SIOPE (Sistema de Informações sobre Orçamentos Públicos em Educação) e, também, dos RREOs estaduais (Relatórios Resumidos de Orçamento). 
->>>>>>> d4f0ac6f84b2cb06925c8e7695f1c1a0892ae539

@@ -3,12 +3,13 @@ layout: post
 title: Gastos em educação e os efeitos da pandemia
 subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/post_educ/thumb_post_edu.jpeg
+thumbnail-img: /assets/img/post_educ/thumb_post_educ.jpeg
 share-img: 
 tags: [análises, visualizações]
 ---
 
 
+<<<<<<< HEAD
 Esse post é parte de um projeto de análise dos dados de gastos em educação pelos estados brasileiros, retirados do SIOPE (Sistema de Informações sobre Orçamentos Públicos em Educação) e, também, dos RREOs estaduais (Relatórios Resumidos de Orçamento). Aqui, pretendo mostrar um pouco do histórico de alocação de recursos em educação no Brasil, os possíveis efeitos da pandemia e conclusões que podemos tirar disso.
 
 ## A fonte dos dados
@@ -22,3 +23,6 @@ Neste texto, analisaremos dados de duas fontes principais: Primeiro, dados sobre
 
 
 
+=======
+Esse post é parte de um projeto de análise dos dados de gastos em educação pelos estados brasileiros, retirados do SIOPE (Sistema de Informações sobre Orçamentos Públicos em Educação) e, também, dos RREOs estaduais (Relatórios Resumidos de Orçamento). 
+>>>>>>> d4f0ac6f84b2cb06925c8e7695f1c1a0892ae539

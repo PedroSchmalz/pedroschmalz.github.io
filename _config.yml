@@ -102,7 +102,7 @@ share-links-active:
 url-pretty: "pedroschmalz.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 140
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -168,7 +168,7 @@ footer-hover-col: "#0085A1"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-PVL4SC222N"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""

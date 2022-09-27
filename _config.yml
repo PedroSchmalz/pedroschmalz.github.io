@@ -10,21 +10,27 @@
 ############################
 
 # Name of website
-title: My Website
+title: Direto aos Dados
 
 # Your name to show in the footer
-author: Some Person
+author: Pedro Schmalz
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre mim: "aboutme"
+  Profissional: 
+  - Lattes: "http://lattes.cnpq.br/1854424638099951"
+  - Google Scholar: "https://scholar.google.com.br/citations?hl=pt-PT&user=hK9Tvg4AAAAJ&view_op=list_works&gmla=AJsN-F7r5EnR8mccz3ffEuWSydjFYAKYsWcJO-77FXkziv1rzW_KPrdg8wkFR7jFOrUdgP-4LOKc86C4chzyHaUWl-rXBHydsQ"
+  - Currículo: 
+  - Twitter: "https://twitter.com/SchmalzPedro"
+  - Linkedin: "https://www.linkedin.com/in/pedro-schmalz/"
+  - github: "https://github.com/PedroSchmalz"
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Arquivo: "archive"
 
 ################
 # --- Logo --- #
@@ -32,7 +38,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/perfil-pedro.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,16 +55,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "pedrosantanaschmalz@usp.br"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: PedroSchmalz
+  twitter: SchmalzPedro
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: pedro-schmalz
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -125,14 +130,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#6495ED"  # "#EAEAEA" antiga
+navbar-col: "#EAEAEA" 
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#6495ED" # "#EAEAEA" antiga
+footer-col: "#EAEAEA" 
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -163,7 +168,7 @@ footer-hover-col: "#0085A1"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-PVL4SC222N"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""

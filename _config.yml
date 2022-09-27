@@ -21,7 +21,12 @@ author: Pedro Schmalz
 
 navbar-links:
   Sobre mim: "aboutme"
-  Lattes: "http://lattes.cnpq.br/1854424638099951"
+  Profissional: 
+  - Lattes: "http://lattes.cnpq.br/1854424638099951"
+  - Google Scholar: "https://scholar.google.com.br/citations?hl=pt-PT&user=hK9Tvg4AAAAJ&view_op=list_works&gmla=AJsN-F7r5EnR8mccz3ffEuWSydjFYAKYsWcJO-77FXkziv1rzW_KPrdg8wkFR7jFOrUdgP-4LOKc86C4chzyHaUWl-rXBHydsQ"
+  - Currículo: 
+  - Twitter: "https://twitter.com/SchmalzPedro"
+  - Linkedin: "https://www.linkedin.com/in/pedro-schmalz/"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   Arquivo: "archive"

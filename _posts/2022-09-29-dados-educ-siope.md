@@ -26,7 +26,7 @@ Nos dados referentes aos gastos na função educação (SIOPE), encontra-se a se
   <figcaption class = "rodapefig">Valor base para a deflação: INPC(2021)</figcaption>
 </figure>
 
-Todavia, olhando-se os gastos por nível de educação, percebemos a diminuição dos gastos no nível Fundamental, mas sem crescimento paralelo do Ensino Médio. Na Figura 2, pode-se observar que, nos anos da pandemia, o gasto no Ensino Fundamental volta a ultrapassar os valores do Ensino Médio. Apesar disso, a tendência daquele nível é o de queda desde o início da década de 2010. Pode-se aventar, consequentemente, que a queda dos gastos totais em educação desde 2014 podem ser explicados pelos cortes nos investimento no Ensino Fundamental nos estados.
+Todavia, olhando-se os gastos por nível de educação, percebemos a diminuição dos gastos no nível Fundamental, mas sem crescimento paralelo do Ensino Médio. Na Figura 2, pode-se observar que, nos anos da pandemia, o gasto no Ensino Fundamental volta a ultrapassar os valores do Ensino Médio. Apesar disso, a tendência daquele nível é o de queda desde o início da década de 2010. Pode-se aventar, consequentemente, que a queda dos gastos totais em educação desde 2014 podem ser explicados pelos cortes nos investimento no Ensino Fundamental nos estados.{% sidenote meh Yes, <i>very</i> long. %}
 
 <figure>
   <figcaption class = "titulofigura"><b> Figura 2 -</b> Gasto Total em educação por nível de ensino, em Bilhões (R$ 2021) </figcaption>
@@ -45,5 +45,5 @@ Todavia, olhando-se os gastos por nível de educação, percebemos a diminuiçã
 
 
 
-[^1]: "A união aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino. Disponível no [site da Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+[^1]: "A união aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.". Disponível no [site da Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
 

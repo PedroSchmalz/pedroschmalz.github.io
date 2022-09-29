@@ -16,9 +16,9 @@ Esse post é parte de um projeto de análise dos dados de gastos em educação p
 Neste texto, analisaremos dados de duas fontes principais: Primeiro, dados sobre os gastos líquidos e empenhados pelos estados brasileiros (2005-2021), retirados do SIOPE. Estes dados se referem principalmente à função educação e serão destrinchados de algumas maneiras a permitir inferir se a pandemia de fato exerceu efeitos negativos sobre o padrão de gastos deste tipo no Brasil. Segundo, olharemos para os dados referentes aos gastos em MDE (Manutenção e Desenvolvimento do Ensino), retirados dos RREOs estaduais. Nessa segunda análise, estaremos interessados se os estados desrespeitaram o mínimo de gasto em educação, delimitado pela Constituição (Artigo 212 da Constituição Federal de 1988)[^1].
 
 <figure>
-  <figcaption class = "titulofigura">This is my caption text.</figcaption>
+  <figcaption class = "titulofigura"><b> Figura 1 -</b> Gasto Total em educação ao longo dos anos </figcaption>
   <img src="/assets/img/post_educ/gasto_total.png" alt="gasto em educação"/>
-  <figcaption class = "rodapefig">This is my caption text.</figcaption>
+  <figcaption class = "rodapefig">Fonte: Dados retirados do SIOPE. Figura elaborada pelo autor</figcaption>
 </figure>
 
 

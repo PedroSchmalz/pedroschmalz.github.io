@@ -21,8 +21,3 @@ Neste texto, analisaremos dados de duas fontes principais: Primeiro, dados sobre
 
 [^1]: "A união aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino. Disponível no [link](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 3157607d63029331bc0ebb8b3fea79f2f5fcf33f

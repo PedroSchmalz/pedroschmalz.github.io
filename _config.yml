@@ -27,7 +27,7 @@ navbar-links:
   - Currículo: 
   - Twitter: "https://twitter.com/SchmalzPedro"
   - Linkedin: "https://www.linkedin.com/in/pedro-schmalz/"
-  - github: "https://github.com/PedroSchmalz"
+  - Github: "https://github.com/PedroSchmalz"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   Arquivo: "archive"
@@ -95,6 +95,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -252,7 +253,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Brazil/East"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

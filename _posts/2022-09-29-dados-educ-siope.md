@@ -17,7 +17,7 @@ Neste texto, analisaremos dados de duas fontes principais: Primeiro, dados sobre
 
 ## Os dados de gastos da Função Educação (SIOPE)
 
-Nos dados referentes aos gastos na função educação (SIOPE), encontra-se a seguinte situação: Apesar do ano de 2020 representar de fato uma queda relevante na série histórica, há uma clara tendência de queda nessa série desde 2014, como mostra a figura 1. Portanto, se torna difícil afirmar que a ruptura representa uma quebra na série histórica.
+Nos dados referentes aos gastos na função educação (SIOPE), encontra-se a seguinte situação: Apesar do ano de 2020 representar de fato uma queda relevante na série histórica, há uma clara tendência de queda nessa série desde 2014, como mostra a figura 1. Portanto, se torna difícil afirmar que a ruptura representa uma quebra na série histórica. [ > right]:blalbalblalbalblablalbalb.
 
 <figure>
   <figcaption class = "titulofigura"><b> Figura 1 -</b> Gasto Total em educação, em Bilhões (R$ 2021) </figcaption>
@@ -34,6 +34,8 @@ Todavia, olhando-se os gastos por nível de educação, percebemos a diminuiçã
   <figcaption class = "rodapefig">Fonte: Dados retirados do SIOPE. Figura elaborada pelo autor</figcaption>
   <figcaption class = "rodapefig">Valor base para a deflação: INPC(2021)</figcaption>
 </figure>
+
+
 
 
 

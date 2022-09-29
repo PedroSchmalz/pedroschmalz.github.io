@@ -95,6 +95,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -252,7 +253,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Brazil/East"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
